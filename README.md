@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a grad student at Syracuse University School of Information Studies pursuing an MS in Information Systems through subjects such as Data Science & Database Management, IT & Policy, Project Management, Information Systems Analysis, and Risk Management after having gained experience in corporate governance, and mergers & acquisitions to help contribute to organizations in their strategic business decision-making goals through strong data foundations & expertise.
+
+I love working in a dynamic work environment where brainstorming, teamwork, and equality are highly regarded. If you share my enthusiasm for brainstorming and discussing the impact of digital advancements and companies thriving, contact me. I am always eager to expand my knowledge and ideas.
+
+Connect with me at [spande09@syr.edu](mailto:spande09@syr.edu)
