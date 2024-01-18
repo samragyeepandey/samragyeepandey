@@ -1,4 +1,4 @@
-### Hi there 👋
+# Welcome to [Samragyee Pandey's](https://www.linkedin.com/in/samragyeepandeyy/) profile! <a href="https://www.linkedin.com/in/samragyeepandeyy/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <!--
 **samragyeepandey/samragyeepandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
